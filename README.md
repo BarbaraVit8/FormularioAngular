@@ -1,4 +1,6 @@
-# MeuPrimeiroProjetoAngular
+# Formulário Angular
+
+Atividade desenvolvida como parte da UC Usuabilidade Desenvolvimento Web Mobile e Jogos
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
 
